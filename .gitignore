@@ -24,14 +24,8 @@ dist-electron
 *.sw?
 
 # Electron
-release/
 build/
-*.dmg
-*.exe
-*.deb
-*.rpm
-*.AppImage
-*.zip
+release/
 
 # Environment
 .env
