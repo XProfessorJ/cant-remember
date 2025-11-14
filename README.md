@@ -27,13 +27,13 @@
 ### 🍎 macOS (Apple Silicon / M1/M2/M3)
 
 **方式一：DMG 安装包（推荐）**
-- 下载：[Can't Remember-1.0.0-arm64.dmg](https://github.com/XProfessorJ/cant-remember/releases/download/v1.0/Can't%20Remember-1.0.0-arm64.dmg)
+- 下载：[Can't Remember-1.0.0-arm64.dmg](https://github.com/XProfessorJ/cant-remember/releases/download/v1.0/Can.t.Remember-1.0.0-arm64.dmg)
 - 双击打开 DMG 文件
 - 将应用拖拽到 Applications 文件夹
 - 在应用程序中找到 "Can't Remember" 并启动
 
 **方式二：ZIP 压缩包**
-- 下载：[Can't Remember-1.0.0-arm64-mac.zip](https://github.com/XProfessorJ/cant-remember/releases/download/v1.0/Can't%20Remember-1.0.0-arm64-mac.zip)
+- 下载：[Can't Remember-1.0.0-arm64-mac.zip](https://github.com/XProfessorJ/cant-remember/releases/download/v1.0/Can.t.Remember-1.0.0-arm64-mac.zip)
 - 解压 ZIP 文件
 - 双击 `Can't Remember.app` 启动应用
 
@@ -45,7 +45,8 @@
 ### 🪟 Windows
 
 **安装程序（推荐）**
-- 下载：[Can't Remember Setup 1.0.0.exe](https://github.com/XProfessorJ/cant-remember/releases/download/v1.0/Can't%20Remember%20Setup%201.0.0.exe)
+- 下载：[Can't Remember Setup 1.0.0.exe](https://github.com/XProfessorJ/cant-remember/releases/download/v1.0/Can.t.Remember.Setup.1.0.0.exe)
+
 - 双击运行安装程序
 - 按照向导完成安装
 - 从开始菜单或桌面快捷方式启动应用
@@ -55,7 +56,7 @@
 ### 🐧 Linux
 
 **AppImage（便携式）**
-- 下载：[Can't Remember-1.0.0.AppImage](https://github.com/XProfessorJ/cant-remember/releases/download/v1.0/Can't%20Remember-1.0.0.AppImage)
+- 下载：[Can't Remember-1.0.0.AppImage](https://github.com/XProfessorJ/cant-remember/releases/download/v1.0/Can.t.Remember-1.0.0.AppImage)
 - 赋予执行权限：
   ```bash
   chmod +x "Can't Remember-1.0.0.AppImage"
