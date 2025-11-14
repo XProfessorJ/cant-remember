@@ -1,4 +1,4 @@
-# Can't Remember - 基于艾宾浩斯遗忘曲线的智能学习工具
+# Can't Remember - 基于SM2算法的智能学习工具
 
 > 一个基于 React + Electron 的桌面学习应用，使用 SM-2 间隔重复算法帮助用户高效学习和记忆。
 
